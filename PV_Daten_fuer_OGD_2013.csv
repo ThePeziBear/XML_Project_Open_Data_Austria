@@ -1,0 +1,545 @@
+#;Gemeinde;Bezirk / Statutarstadt;Einwohner 2013;Anlagen;Leistung [kW];[Watt/EW]
+1;Absdorf;Tulln;1.804;24; 116,26 ;64,45
+2;Achau;Mödling;1.246;9; 54,31 ;43,59
+3;Aderklaa;Gänserndorf;194;6; 62,09 ;320,05
+4;Aggsbach;Krems-Land;676;8; 33,42 ;49,44
+5;Albrechtsberg an der Großen Krems;Krems-Land;1.058;22; 152,20 ;143,86
+6;Alland;Baden;2.490;42; 206,20 ;82,81
+7;Allentsteig;Zwettl;1.964;18; 140,31 ;71,44
+8;Allhartsberg;Amstetten;2.038;49; 370,98 ;182,03
+9;Altenburg;Horn;819;26; 162,58 ;198,51
+10;Altenmarkt an der Triesting;Baden;2.154;24; 165,58 ;76,87
+11;Altlengbach;St. Pölten-Land;2.724;29; 167,68 ;61,56
+12;Altlichtenwarth;Mistelbach;736;10; 40,60 ;55,16
+13;Altmelon;Zwettl;861;15; 127,00 ;147,5
+14;Amaliendorf-Aalfang;Gmünd;1.114;13; 53,36 ;47,9
+15;Amstetten;Amstetten;22.880;271; 1.712,76 ;74,86
+16;Angern an der March;Gänserndorf;3.298;34; 1.653,95 ;501,5
+17;Arbesbach;Zwettl;1.693;58; 432,62 ;255,53
+18;Ardagger;Amstetten;3.370;103; 835,99 ;248,07
+19;Artstetten-Pöbring;Melk;1.154;28; 169,85 ;147,18
+20;Aschbach-Markt;Amstetten;3.673;83; 540,78 ;147,23
+21;Aspangberg-Sankt Peter;Neunkirchen;1.882;19; 167,52 ;89,01
+22;Aspang-Markt;Neunkirchen;1.803;29; 202,64 ;112,39
+23;Asparn an der Zaya;Mistelbach;1.773;18; 97,87 ;55,2
+24;Asperhofen;St. Pölten-Land;2.134;45; 256,90 ;120,38
+25;Atzenbrugg;Tulln;2.733;36; 206,88 ;75,7
+26;Au am Leithaberge;Bruck;916;8; 38,60 ;42,14
+27;Auersthal;Gänserndorf;1.851;32; 151,32 ;81,75
+28;Bad Deutsch-Altenburg;Bruck;1.429;9; 51,72 ;36,19
+29;Bad Erlach;Wr. Neustadt-Land;2.822;14; 78,79 ;27,92
+30;Bad Fischau-Brunn;Wr. Neustadt-Land;3.054;39; 239,87 ;78,54
+31;Bad Großpertholz;Gmünd;1.347;24; 239,17 ;177,56
+32;Bad Pirawarth;Gänserndorf;1.676;16; 88,26 ;52,66
+33;Bad Vöslau;Baden;11.331;79; 370,38 ;32,69
+34;Baden;Baden;25.224;99; 562,55 ;22,3
+35;Behamberg;Amstetten;3.239;87; 556,22 ;171,73
+36;Berg;Bruck;752;5; 34,51 ;45,89
+37;Bergern im Dunkelsteinerwald;Krems-Land;1.249;30; 189,06 ;151,37
+38;Bergland;Melk;1.877;59; 434,09 ;231,27
+39;Berndorf;Baden;8.908;59; 318,42 ;35,75
+40;Bernhardsthal;Mistelbach;1.613;19; 117,79 ;73,03
+41;Biberbach;Amstetten;2.194;83; 501,97 ;228,79
+42;Biedermannsdorf;Mödling;2.834;14; 60,31 ;21,28
+43;Bisamberg;Korneuburg;4.492;42; 257,38 ;57,3
+44;Bischofstetten;Melk;1.183;32; 280,66 ;237,24
+45;Blindenmarkt;Melk;2.568;43; 239,88 ;93,41
+46;Bockfließ;Mistelbach;1.322;10; 41,90 ;31,69
+47;Böheimkirchen;St. Pölten-Land;4.933;64; 366,48 ;74,29
+48;Brand-Laaben;St. Pölten-Land;1.222;21; 124,46 ;101,85
+49;Brand-Nagelberg;Gmünd;1.650;20; 212,64 ;128,87
+50;Breitenau;Neunkirchen;1.426;20; 504,86 ;354,04
+51;Breitenfurt bei Wien;Mödling;5.810;30; 138,63 ;23,86
+52;Bromberg;Wr. Neustadt-Land;1.229;14; 132,44 ;107,76
+53;Bruck an der Leitha;Bruck;7.670;56; 369,85 ;48,22
+54;Brunn am Gebirge;Mödling;11.366;47; 205,09 ;18,04
+55;Brunn an der Wild;Horn;835;27; 245,24 ;293,7
+56;Burgschleinitz-Kühnring;Horn;1.386;22; 150,47 ;108,56
+57;Deutsch-Wagram;Gänserndorf;8.036;96; 571,87 ;71,16
+58;Dietmanns;Waidhofen a.d. Thaya;1.103;8; 35,90 ;32,55
+59;Dobersberg;Waidhofen a.d. Thaya;1.687;50; 332,46 ;197,07
+60;Dorfstetten;Melk;586;12; 132,78 ;226,59
+61;Drasenhofen;Mistelbach;1.120;14; 82,42 ;73,59
+62;Drosendorf-Zissersdorf;Horn;1.203;14; 125,04 ;103,94
+63;Droß;Krems-Land;954;14; 61,50 ;64,47
+64;Dunkelsteinerwald;Melk;2.306;55; 486,64 ;211,03
+65;Dürnkrut;Gänserndorf;2.254;11; 45,99 ;20,4
+66;Dürnstein;Krems-Land;872;12; 102,70 ;117,78
+67;Ebenfurth;Wr. Neustadt-Land;2.879;17; 78,21 ;27,17
+68;Ebenthal;Gänserndorf;848;7; 35,39 ;41,73
+69;Ebergassing;Wien Umgebung;3.900;10; 82,29 ;21,1
+70;Ebreichsdorf;Baden;10.043;77; 385,64 ;38,4
+71;Echsenbach;Zwettl;1.205;38; 297,52 ;246,9
+72;Eckartsau;Gänserndorf;1.186;29; 187,42 ;158,03
+73;Edlitz;Neunkirchen;901;15; 190,30 ;211,21
+74;Eggenburg;Horn;3.513;44; 272,19 ;77,48
+75;Eggern;Gmünd;725;24; 190,59 ;262,88
+76;Eichgraben;St. Pölten-Land;4.427;78; 360,22 ;81,37
+77;Eisgarn;Gmünd;664;7; 33,38 ;50,27
+78;Emmersdorf an der Donau;Melk;1.731;51; 333,94 ;192,92
+79;Engelhartstetten;Gänserndorf;1.898;26; 135,60 ;71,44
+80;Ennsdorf;Amstetten;2.934;27; 367,80 ;125,36
+81;Enzenreith;Neunkirchen;1.908;11; 66,94 ;35,08
+82;Enzersdorf an der Fischa;Bruck;2.985;30; 1.016,40 ;340,5
+83;Enzersfeld;Korneuburg;1.645;29; 160,49 ;97,56
+84;Enzesfeld-Lindabrunn;Baden;4.174;28; 125,20 ;30
+85;Erlauf;Melk;1.080;20; 124,93 ;115,68
+86;Ernstbrunn;Korneuburg;3.109;42; 278,76 ;89,66
+87;Ernsthofen;Amstetten;2.179;42; 308,14 ;141,41
+88;Ertl;Amstetten;1.293;20; 155,27 ;120,09
+89;Eschenau;Lilienfeld;1.357;27; 129,68 ;95,56
+90;Euratsfeld;Amstetten;2.545;84; 1.908,70 ;749,98
+91;Falkenstein;Mistelbach;445;11; 69,65 ;156,52
+92;Fallbach;Mistelbach;820;26; 172,58 ;210,46
+93;Feistritz am Wechsel;Neunkirchen;1.044;19; 131,81 ;126,25
+94;Felixdorf;Wr. Neustadt-Land;4.248;18; 88,26 ;20,78
+95;Fels am Wagram;Tulln;2.096;35; 173,62 ;82,83
+96;Ferschnitz;Amstetten;1.683;36; 299,07 ;177,7
+97;Fischamend;Wien Umgebung;4.898;25; 116,81 ;23,85
+98;Frankenfels;St. Pölten-Land;2.047;15; 92,58 ;45,23
+99;Furth an der Triesting;Baden;820;7; 36,46 ;44,46
+100;Furth bei Göttweig;Krems-Land;2.897;37; 166,85 ;57,59
+101;Gaaden;Mödling;1.599;21; 101,00 ;63,16
+102;Gablitz;Wien Umgebung;4.682;32; 150,41 ;32,13
+103;Gaming;Scheibbs;3.165;28; 163,93 ;51,79
+104;Gänserndorf;Gänserndorf;10.537;85; 518,34 ;49,19
+105;Gars am Kamp;Horn;3.505;80; 517,95 ;147,77
+106;Gastern;Waidhofen a.d. Thaya;1.282;22; 149,12 ;116,32
+107;Gaubitsch;Mistelbach;883;24; 134,55 ;152,38
+108;Gaweinstal;Mistelbach;3.741;54; 264,14 ;70,61
+109;Gedersdorf;Krems-Land;2.167;66; 312,12 ;144,03
+110;Geras;Horn;1.381;32; 222,87 ;161,38
+111;Gerasdorf bei Wien;Wien Umgebung;10.307;68; 389,57 ;37,8
+112;Gerersdorf;St. Pölten-Land;924;18; 116,78 ;126,39
+113;Gföhl;Krems-Land;3.693;50; 323,43 ;87,58
+114;Gießhübl;Mödling;2.195;31; 175,46 ;79,94
+115;Glinzendorf;Gänserndorf;259;5; 89,69 ;346,29
+116;Gloggnitz;Neunkirchen;5.960;61; 348,21 ;58,42
+117;Gmünd;Gmünd;5.377;35; 182,99 ;34,03
+118;Gnadendorf;Mistelbach;1.118;18; 78,85 ;70,53
+119;Göllersdorf;Hollabrunn;2.981;64; 380,06 ;127,49
+120;Golling an der Erlauf;Melk;1.528;8; 52,64 ;34,45
+121;Göpfritz an der Wild;Zwettl;1.825;28; 191,71 ;105,05
+122;Göstling an der Ybbs;Scheibbs;2.059;30; 159,00 ;77,22
+123;Göttlesbrunn-Arbesthal;Bruck;1.381;40; 198,79 ;143,95
+124;Götzendorf an der Leitha;Bruck;2.060;24; 100,10 ;48,59
+125;Grabern;Hollabrunn;1.407;49; 278,36 ;197,84
+126;Grafenbach-Sankt Valentin;Neunkirchen;2.234;17; 91,57 ;40,99
+127;Grafenegg;Krems-Land;2.966;44; 227,26 ;76,62
+128;Grafenschlag;Zwettl;898;16; 96,39 ;107,34
+129;Grafenwörth;Tulln;3.016;57; 625,47 ;207,38
+130;Gramatneusiedl;Wien Umgebung;2.965;14; 71,16 ;24
+131;Gresten;Scheibbs;1.951;22; 124,55 ;63,84
+132;Gresten-Land;Scheibbs;1.534;29; 169,19 ;110,29
+133;Grimmenstein;Neunkirchen;1.346;28; 174,09 ;129,34
+134;Groß Gerungs;Zwettl;4.567;79; 537,79 ;117,76
+135;Großdietmanns;Gmünd;2.250;27; 169,55 ;75,36
+136;Großebersdorf;Mistelbach;2.262;30; 219,11 ;96,87
+137;Groß-Engersdorf;Mistelbach;1.504;17; 100,62 ;66,9
+138;Groß-Enzersdorf;Gänserndorf;9.863;92; 536,34 ;54,38
+139;Großgöttfritz;Zwettl;1.404;45; 260,83 ;185,78
+140;Großharras;Mistelbach;1.135;17; 90,18 ;79,45
+141;Großkrut;Mistelbach;1.563;27; 149,87 ;95,89
+142;Großmugl;Korneuburg;1.590;29; 173,06 ;108,84
+143;Großriedenthal;Tulln;926;30; 185,01 ;199,79
+144;Großrußbach;Korneuburg;2.123;46; 327,05 ;154,05
+145;Großschönau;Gmünd;1.232;32; 391,15 ;317,49
+146;Groß-Schweinbarth;Gänserndorf;1.291;29; 912,77 ;707,03
+147;Groß-Siegharts;Waidhofen a.d. Thaya;2.782;37; 359,94 ;129,38
+148;Großweikersdorf;Tulln;3.065;52; 261,70 ;85,38
+149;Grünbach am Schneeberg;Neunkirchen;1.628;16; 80,78 ;49,62
+150;Gumpoldskirchen;Mödling;3.663;28; 124,09 ;33,88
+151;Günselsdorf;Baden;1.746;11; 65,96 ;37,78
+152;Guntersdorf;Hollabrunn;1.172;24; 150,63 ;128,52
+153;Guntramsdorf;Mödling;9.028;78; 502,93 ;55,71
+154;Gutenbrunn;Zwettl;556;10; 49,59 ;89,19
+155;Gutenstein;Wr. Neustadt-Land;1.281;10; 53,27 ;41,58
+156;Haag;Amstetten;5.444;131; 2.565,12 ;471,18
+157;Hadersdorf-Kammern;Krems-Land;2.003;29; 131,15 ;65,48
+158;Hadres;Hollabrunn;1.674;24; 172,76 ;103,2
+159;Hafnerbach;St. Pölten-Land;1.561;86; 635,02 ;406,8
+160;Hagenbrunn;Korneuburg;2.013;25; 123,83 ;61,52
+161;Haidershofen;Amstetten;3.562;101; 4.875,09 ;1.368,64
+162;Hainburg an der Donau;Bruck;6.066;23; 104,19 ;17,18
+163;Hainfeld;Lilienfeld;3.688;38; 237,31 ;64,35
+164;Hardegg;Hollabrunn;1.356;29; 251,44 ;185,43
+165;Haringsee;Gänserndorf;1.153;16; 671,42 ;582,32
+166;Harmannsdorf;Korneuburg;3.891;49; 393,06 ;101,02
+167;Haslau-Maria Ellend;Bruck;1.873;16; 88,80 ;47,41
+168;Haugschlag;Gmünd;495;10; 42,60 ;86,06
+169;Haugsdorf;Hollabrunn;1.601;20; 211,33 ;132
+170;Haunoldstein;St. Pölten-Land;1.071;15; 64,52 ;60,24
+171;Hausbrunn;Mistelbach;824;15; 73,48 ;89,17
+172;Hauskirchen;Gänserndorf;1.233;18; 96,69 ;78,42
+173;Hausleiten;Korneuburg;3.663;54; 297,54 ;81,23
+174;Heidenreichstein;Gmünd;4.071;52; 526,63 ;129,36
+175;Heiligenkreuz;Baden;1.541;22; 350,15 ;227,22
+176;Heldenberg;Hollabrunn;1.226;23; 131,27 ;107,07
+177;Hennersdorf;Mödling;1.411;22; 89,90 ;63,71
+178;Hernstein;Baden;1.499;27; 335,07 ;223,53
+179;Herrnbaumgarten;Mistelbach;962;21; 127,30 ;132,33
+180;Herzogenburg;St. Pölten-Land;7.757;102; 687,03 ;88,57
+181;Himberg;Wien Umgebung;6.869;37; 286,88 ;41,76
+182;Hinterbrühl;Mödling;4.066;28; 139,89 ;34,4
+183;Hirschbach;Gmünd;568;10; 95,38 ;167,92
+184;Hirtenberg;Baden;2.600;10; 151,27 ;58,18
+185;Hochleithen;Mistelbach;1.134;13; 84,24 ;74,29
+186;Hochneukirchen-Gschaidt;Wr. Neustadt-Land;1.663;14; 71,71 ;43,12
+187;Hochwolkersdorf;Wr. Neustadt-Land;1.020;14; 66,80 ;65,49
+188;Hof am Leithaberge;Bruck;1.476;14; 58,42 ;39,58
+189;Hofamt Priel;Melk;1.671;52; 359,36 ;215,06
+190;Höflein;Bruck;1.215;16; 81,20 ;66,83
+191;Höflein an der Hohen Wand;Neunkirchen;907;13; 78,43 ;86,47
+192;Hofstetten-Grünau;St. Pölten-Land;2.593;40; 271,39 ;104,66
+193;Hohe Wand;Wr. Neustadt-Land;1.404;18; 79,57 ;56,67
+194;Hohenau an der March;Gänserndorf;2.653;45; 275,61 ;103,89
+195;Hohenberg;Lilienfeld;1.510;18; 80,75 ;53,48
+196;Hoheneich;Gmünd;1.442;13; 120,40 ;83,5
+197;Hohenwarth-Mühlbach a.M.;Hollabrunn;1.270;30; 205,63 ;161,91
+198;Hollabrunn;Hollabrunn;11.616;134; 880,70 ;75,82
+199;Hollenstein an der Ybbs;Amstetten;1.701;34; 522,00 ;306,88
+200;Hollenthon;Wr. Neustadt-Land;1.052;13; 82,95 ;78,85
+201;Horn;Horn;6.520;155; 2.369,57 ;363,43
+202;Hürm;Melk;1.726;60; 462,32 ;267,86
+203;Inzersdorf-Getzersdorf;St. Pölten-Land;1.510;28; 153,23 ;101,48
+204;Irnfritz-Messern;Horn;1.433;36; 234,98 ;163,98
+205;Jaidhof;Krems-Land;1.193;29; 182,05 ;152,6
+206;Japons;Horn;743;20; 186,41 ;250,89
+207;Jedenspeigen;Gänserndorf;1.058;18; 87,64 ;82,84
+208;Judenau-Baumgarten;Tulln;2.164;32; 147,85 ;68,32
+209;Kaltenleutgeben;Mödling;3.330;13; 73,11 ;21,95
+210;Kapelln;St. Pölten-Land;1.380;46; 419,39 ;303,91
+211;Karlstein an der Thaya;Waidhofen a.d. Thaya;1.509;27; 435,36 ;288,51
+212;Karlstetten;St. Pölten-Land;2.071;34; 220,79 ;106,61
+213;Kasten bei Böheimkirchen;St. Pölten-Land;1.330;16; 74,64 ;56,12
+214;Katzelsdorf;Wr. Neustadt-Land;3.173;72; 381,35 ;120,19
+215;Kaumberg;Lilienfeld;988;9; 62,49 ;63,25
+216;Kautzen;Waidhofen a.d. Thaya;1.179;20; 103,76 ;88,01
+217;Kematen an der Ybbs;Amstetten;2.539;19; 85,97 ;33,86
+218;Kilb;Melk;2.528;52; 338,98 ;134,09
+219;Kirchberg am Wagram;Tulln;3.509;90; 524,35 ;149,43
+220;Kirchberg am Walde;Gmünd;1.365;24; 168,05 ;123,11
+221;Kirchberg am Wechsel;Neunkirchen;2.351;47; 324,45 ;138,01
+222;Kirchberg an der Pielach;St. Pölten-Land;3.125;59; 364,08 ;116,51
+223;Kirchschlag;Zwettl;656;15; 97,42 ;148,51
+224;Kirchschlag in der Buckligen Welt;Wr. Neustadt-Land;2.901;36; 216,97 ;74,79
+225;Kirchstetten;St. Pölten-Land;2.044;17; 79,08 ;38,69
+226;Kirnberg an der Mank;Melk;1.035;42; 264,33 ;255,39
+227;Klausen-Leopoldsdorf;Baden;1.621;17; 89,30 ;55,09
+228;Klein-Neusiedl;Wien Umgebung;800;6; 39,74 ;49,68
+229;Klein-Pöchlarn;Melk;957;19; 138,87 ;145,11
+230;Kleinzell;Lilienfeld;857;12; 79,36 ;92,6
+231;Klosterneuburg;Wien Umgebung;25.918;132; 761,15 ;29,37
+232;Königsbrunn am Wagram;Tulln;1.331;25; 130,45 ;98,01
+233;Königstetten;Tulln;2.037;21; 116,33 ;57,11
+234;Korneuburg;Korneuburg;12.259;56; 591,04 ;48,21
+235;Kottes-Purk;Zwettl;1.506;35; 229,38 ;152,31
+236;Kottingbrunn;Baden;7.417;41; 521,15 ;70,26
+237;Krems an der Donau;Krems-Stadt;23.947 ;104; 845,56 ;35,31
+238;Kreuttal;Mistelbach;1.418;13; 79,84 ;56,3
+239;Kreuzstetten;Mistelbach;1.530;31; 151,31 ;98,9
+240;Krumau am Kamp;Krems-Land;769;21; 171,83 ;223,45
+241;Krumbach;Wr. Neustadt-Land;2.297;45; 359,95 ;156,7
+242;Krummnußbaum;Melk;1.447;21; 183,32 ;126,69
+243;Laa an der Thaya;Mistelbach;6.174;88; 562,72 ;91,14
+244;Ladendorf;Mistelbach;2.234;43; 234,26 ;104,86
+245;Langau;Horn;683;21; 146,74 ;214,85
+246;Langenlois;Krems-Land;7.518;100; 1.107,61 ;147,33
+247;Langenrohr;Tulln;2.309;32; 176,65 ;76,5
+248;Langenzersdorf;Korneuburg;7.996;59; 249,58 ;31,21
+249;Langschlag;Zwettl;1.786;33; 232,36 ;130,1
+250;Lanzendorf;Wien Umgebung;1.681;12; 57,18 ;34,02
+251;Lanzenkirchen;Wr. Neustadt-Land;3.861;36; 527,55 ;136,64
+252;Lassee;Gänserndorf;2.570;35; 162,64 ;63,28
+253;Laxenburg;Mödling;2.820;12; 56,06 ;19,88
+254;Leiben;Melk;1.354;16; 93,62 ;69,14
+255;Leitzersdorf;Korneuburg;1.267;17; 147,57 ;116,47
+256;Lengenfeld;Krems-Land;1.441;14; 69,17 ;48
+257;Leobendorf;Korneuburg;4.782;36; 362,32 ;75,77
+258;Leobersdorf;Baden;4.749;24; 229,03 ;48,23
+259;Leopoldsdorf;Wien Umgebung;4.816;31; 146,45 ;30,41
+260;Leopoldsdorf im Marchfelde;Gänserndorf;2.592;17; 212,18 ;81,86
+261;Lichtenau im Waldviertel;Krems-Land;2.034;47; 265,56 ;130,56
+262;Lichtenegg;Wr. Neustadt-Land;1.074;26; 589,44 ;548,83
+263;Lichtenwörth;Wr. Neustadt-Land;2.858;16; 77,83 ;27,23
+264;Lilienfeld;Lilienfeld;2.837;37; 185,25 ;65,3
+265;Litschau;Gmünd;2.272;24; 154,50 ;68
+266;Loich;St. Pölten-Land;610;9; 48,75 ;79,92
+267;Loosdorf;Melk;3.803;39; 202,48 ;53,24
+268;Ludweis-Aigen;Waidhofen a.d. Thaya;977;32; 182,10 ;186,39
+269;Lunz am See;Scheibbs;1.824;19; 111,36 ;61,05
+270;Mailberg;Hollabrunn;568;11; 82,78 ;145,74
+271;Maissau;Hollabrunn;1.898;24; 112,19 ;59,11
+272;Mank;Melk;3.100;69; 511,11 ;164,87
+273;Mannersdorf am Leithagebirge;Bruck;3.851;25; 174,21 ;45,24
+274;Mannsdorf an der Donau;Gänserndorf;386;24; 159,51 ;413,24
+275;Marbach an der Donau;Melk;1.645;27; 163,43 ;99,35
+276;Marchegg;Gänserndorf;2.895;21; 112,11 ;38,73
+277;Maria Enzersdorf;Mödling;8.647;54; 227,65 ;26,33
+278;Maria Laach am Jauerling;Krems-Land;931;27; 197,58 ;212,22
+279;Maria Taferl;Melk;866;9; 58,42 ;67,46
+280;Maria-Anzbach;St. Pölten-Land;2.821;37; 191,20 ;67,78
+281;Markersdorf-Haindorf;St. Pölten-Land;2.002;39; 247,81 ;123,78
+282;Markgrafneusiedl;Gänserndorf;835;21; 179,87 ;215,41
+283;Markt Piesting;Wr. Neustadt-Land;2.920;33; 184,56 ;63,21
+284;Martinsberg;Zwettl;1.144;31; 290,18 ;253,65
+285;Matzendorf-Hölles;Wr. Neustadt-Land;1.900;24; 114,35 ;60,18
+286;Matzen-Raggendorf;Gänserndorf;2.708;30; 197,42 ;72,9
+287;Mauerbach;Wien Umgebung;3.664;17; 99,24 ;27,09
+288;Mautern an der Donau;Krems-Land;3.464;28; 157,24 ;45,39
+289;Meiseldorf;Horn;920;20; 163,16 ;177,35
+290;Melk;Melk;5.206;51; 429,51 ;82,5
+291;Michelbach;St. Pölten-Land;894;30; 691,96 ;774
+292;Michelhausen;Tulln;2.639;49; 283,96 ;107,6
+293;Mistelbach;Mistelbach;11.012;95; 471,00 ;42,77
+294;Mitterbach am Erlaufsee;Lilienfeld;531;8; 42,21 ;79,49
+295;Mitterndorf an der Fischa;Baden;2.183;14; 78,35 ;35,89
+296;Mödling;Mödling;20.457;55; 341,07 ;16,67
+297;Mönichkirchen;Neunkirchen;607;17; 128,52 ;211,73
+298;Moorbad Harbach;Gmünd;665;15; 133,06 ;200,09
+299;Moosbrunn;Wien Umgebung;1.644;15; 65,86 ;40,06
+300;Muckendorf-Wipfing;Tulln;1.332;15; 101,62 ;76,29
+301;Muggendorf;Wr. Neustadt-Land;523;6; 40,20 ;76,86
+302;Mühldorf;Krems-Land;1.388;15; 75,78 ;54,6
+303;Münchendorf;Mödling;2.728;40; 226,18 ;82,91
+304;Münichreith-Laimbach;Melk;1.663;27; 195,86 ;117,78
+305;Nappersdorf-Kammersdorf;Hollabrunn;1.232;19; 106,76 ;86,66
+306;Natschbach-Loipersbach;Neunkirchen;1.737;26; 117,54 ;67,67
+307;Neidling;St. Pölten-Land;1.482;68; 486,17 ;328,05
+308;Neudorf bei Staatz;Mistelbach;1.409;66; 405,55 ;287,83
+309;Neuhofen an der Ybbs;Amstetten;2.861;69; 537,37 ;187,83
+310;Neulengbach;St. Pölten-Land;7.847;100; 532,98 ;67,92
+311;Neumarkt an der Ybbs;Melk;1.842;24; 149,59 ;81,21
+312;Neunkirchen;Neunkirchen;12.263;67; 322,01 ;26,26
+313;Neusiedl an der Zaya;Gänserndorf;1.241;12; 70,28 ;56,63
+314;Neustadtl an der Donau;Amstetten;2.094;67; 490,79 ;234,38
+315;Neustift-Innermanzing;St. Pölten-Land;1.489;15; 66,04 ;44,35
+316;Niederhollabrunn;Korneuburg;1.590;33; 170,50 ;107,23
+317;Niederleis;Mistelbach;828;18; 94,77 ;114,46
+318;Nöchling;Melk;1.046;33; 221,14 ;211,41
+319;Nußdorf ob der Traisen;St. Pölten-Land;1.716;32; 179,89 ;104,83
+320;Ober-Grafendorf;St. Pölten-Land;4.539;64; 568,11 ;125,16
+321;Oberndorf an der Melk;Scheibbs;2.953;64; 473,69 ;160,41
+322;Obersiebenbrunn;Gänserndorf;1.700;12; 79,79 ;46,94
+323;Oberwaltersdorf;Baden;4.100;31; 661,58 ;161,36
+324;Obritzberg-Rust;St. Pölten-Land;2.270;69; 508,88 ;224,18
+325;Oed-Oehling;Amstetten;1.770;38; 227,17 ;128,34
+326;Opponitz;Amstetten;965;30; 271,00 ;280,83
+327;Orth an der Donau;Gänserndorf;2.033;61; 273,16 ;134,36
+328;Ottenschlag;Zwettl;996;16; 171,78 ;172,47
+329;Ottenthal;Mistelbach;582;7; 40,00 ;68,73
+330;Otterthal;Neunkirchen;596;5; 41,85 ;70,22
+331;Palterndorf-Dobermannsdorf;Gänserndorf;1.268;8; 41,03 ;32,36
+332;Parbasdorf;Gänserndorf;157;7; 74,52 ;474,65
+333;Paudorf;Krems-Land;2.518;44; 232,29 ;92,25
+334;Payerbach;Neunkirchen;2.146;14; 65,74 ;30,63
+335;Perchtoldsdorf;Mödling;14.636;107; 693,97 ;47,42
+336;Pernegg;Horn;692;14; 101,48 ;146,65
+337;Pernersdorf;Hollabrunn;1.001;19; 88,53 ;88,44
+338;Pernitz;Wr. Neustadt-Land;2.526;16; 99,18 ;39,26
+339;Persenbeug-Gottsdorf;Melk;2.261;43; 292,99 ;129,58
+340;Petronell-Carnuntum;Bruck;1.240;9; 42,70 ;34,44
+341;Petzenkirchen;Melk;1.307;12; 56,95 ;43,57
+342;Pfaffenschlag bei Waidhofen an der Thaya;Waidhofen a.d. Thaya;934;18; 162,44 ;173,92
+343;Pfaffstätten;Baden;3.483;52; 220,08 ;63,19
+344;Pillichsdorf;Mistelbach;1.135;16; 85,08 ;74,96
+345;Pitten;Neunkirchen;2.486;24; 142,31 ;57,24
+346;Pöchlarn;Melk;3.948;52; 995,95 ;252,27
+347;Pöggstall;Melk;2.488;51; 521,81 ;209,73
+348;Pölla;Zwettl;969;41; 323,35 ;333,69
+349;Pottendorf;Baden;6.409;48; 352,23 ;54,96
+350;Pottenstein;Baden;2.981;18; 89,69 ;30,09
+351;Poysdorf;Mistelbach;5.473;85; 504,86 ;92,25
+352;Prellenkirchen;Bruck;1.479;14; 99,90 ;67,55
+353;Pressbaum;Wien Umgebung;7.107;60; 295,45 ;41,57
+354;Prinzersdorf;St. Pölten-Land;1.601;21; 159,75 ;99,78
+355;Prottes;Gänserndorf;1.394;13; 74,28 ;53,29
+356;Puchberg am Schneeberg;Neunkirchen;2.655;21; 102,50 ;38,61
+357;Pulkau;Hollabrunn;1.560;37; 197,78 ;126,78
+358;Purgstall an der Erlauf;Scheibbs;5.358;146; 1.196,91 ;223,39
+359;Purkersdorf;Wien Umgebung;9.317;29; 126,97 ;13,63
+360;Pyhra;St. Pölten-Land;3.384;52; 427,10 ;126,21
+361;Raabs an der Thaya;Waidhofen a.d. Thaya;2.729;68; 797,16 ;292,11
+362;Raach am Hochgebirge;Neunkirchen;297;7; 61,33 ;206,5
+363;Rabensburg;Mistelbach;1.108;8; 39,72 ;35,85
+364;Rabenstein an der Pielach;St. Pölten-Land;2.432;29; 174,69 ;71,83
+365;Ramsau;Lilienfeld;864;6; 51,55 ;59,66
+366;Randegg;Scheibbs;1.908;35; 240,24 ;125,91
+367;Rappottenstein;Zwettl;1.726;54; 1.650,78 ;956,42
+368;Rastenfeld;Krems-Land;1.418;56; 299,70 ;211,35
+369;Rauchenwarth;Wien Umgebung;667;16; 70,79 ;106,13
+370;Ravelsbach;Hollabrunn;1.639;28; 174,76 ;106,63
+371;Raxendorf;Melk;1.047;18; 118,41 ;113,09
+372;Reichenau an der Rax;Neunkirchen;2.613;16; 78,30 ;29,97
+373;Reingers;Gmünd;673;16; 93,21 ;138,5
+374;Reinsberg;Scheibbs;1.006;11; 66,28 ;65,88
+375;Reisenberg;Baden;1.595;13; 81,63 ;51,18
+376;Retz;Hollabrunn;4.135;58; 294,08 ;71,12
+377;Ringelsdorf-Niederabsdorf;Gänserndorf;1.297;9; 49,14 ;37,89
+378;Rohr im Gebirge;Wr. Neustadt-Land;469;9; 53,92 ;114,97
+379;Rohrau;Bruck;1.534;20; 122,05 ;79,56
+380;Rohrbach an der Gölsen;Lilienfeld;1.683;20; 102,29 ;60,78
+381;Röhrenbach;Horn;575;41; 360,42 ;626,82
+382;Rohrendorf bei Krems;Krems-Land;2.007;57; 265,64 ;132,36
+383;Röschitz;Horn;1.017;18; 82,68 ;81,3
+384;Rosenburg-Mold;Horn;825;33; 177,87 ;215,6
+385;Rossatz-Arnsdorf;Krems-Land;1.052;24; 159,80 ;151,9
+386;Ruprechtshofen;Melk;2.261;68; 587,58 ;259,88
+387;Rußbach;Korneuburg;1.374;30; 162,32 ;118,14
+388;Sallingberg;Zwettl;1.349;34; 186,72 ;138,41
+389;Sankt Aegyd am Neuwalde;Lilienfeld;2.017;17; 155,48 ;77,08
+390;Sankt Andrä-Wördern;Tulln;7.568;75; 365,52 ;48,3
+391;Sankt Anton an der Jeßnitz;Scheibbs;1.242;19; 107,67 ;86,69
+392;Sankt Bernhard-Frauenhofen;Horn;1.251;53; 390,82 ;312,41
+393;Sankt Corona am Wechsel;Neunkirchen;376;6; 33,30 ;88,56
+394;Sankt Egyden am Steinfeld;Neunkirchen;1.901;20; 93,32 ;49,09
+395;Sankt Georgen am Reith;Amstetten;576;10; 94,47 ;164,01
+396;Sankt Georgen am Ybbsfelde;Amstetten;2.787;46; 299,91 ;107,61
+397;Sankt Georgen an der Leys;Scheibbs;1.329;31; 216,74 ;163,09
+398;Sankt Leonhard am Forst;Melk;3.037;79; 455,80 ;150,08
+399;Sankt Leonhard am Hornerwald;Krems-Land;1.139;44; 794,37 ;697,43
+400;Sankt Margarethen an der Sierning;St. Pölten-Land;986;23; 143,64 ;145,68
+401;Sankt Martin;Gmünd;1.140;20; 295,29 ;259,03
+402;Sankt Martin-Karlsbach;Melk;1.693;27; 155,68 ;91,96
+403;Sankt Oswald;Melk;1.125;30; 272,24 ;241,99
+404;Sankt Pantaleon-Erla;Amstetten;2.524;42; 215,60 ;85,42
+405;Sankt Peter in der Au;Amstetten;5.033;105; 2.175,28 ;432,2
+406;Sankt Pölten;St. Pölten-Stadt;51.926 ;290; 2.214,07 ;42,64
+407;Sankt Valentin;Amstetten;9.151;156; 1.077,01 ;117,69
+408;Sankt Veit an der Gölsen;Lilienfeld;3.897;61; 395,50 ;101,49
+409;Scharndorf;Bruck;1.132;9; 43,27 ;38,22
+410;Scheibbs;Scheibbs;4.186;73; 480,12 ;114,7
+411;Scheiblingkirchen-Thernberg;Neunkirchen;1.895;20; 93,96 ;49,58
+412;Schollach;Melk;913;31; 268,77 ;294,38
+413;Schönau an der Triesting;Baden;2.112;14; 96,65 ;45,76
+414;Schönbach;Zwettl;848;10; 53,92 ;63,58
+415;Schönberg am Kamp;Krems-Land;1.874;28; 152,56 ;81,41
+416;Schönbühel-Aggsbach;Melk;1.018;12; 65,66 ;64,5
+417;Schönkirchen-Reyersdorf;Gänserndorf;1.972;23; 1.105,62 ;560,66
+418;Schrattenberg;Mistelbach;822;21; 123,00 ;149,64
+419;Schrattenthal;Hollabrunn;854;16; 114,17 ;133,69
+420;Schrems;Gmünd;5.587;95; 1.066,60 ;190,91
+421;Schwadorf;Wien Umgebung;1.939;14; 60,54 ;31,22
+422;Schwarzau am Steinfeld;Neunkirchen;1.854;28; 129,27 ;69,72
+423;Schwarzau im Gebirge;Neunkirchen;690;7; 39,27 ;56,91
+424;Schwarzenau;Zwettl;1.534;25; 167,58 ;109,24
+425;Schwarzenbach;Wr. Neustadt-Land;987;10; 55,31 ;56,04
+426;Schwechat;Wien Umgebung;16.805;40; 281,38 ;16,74
+427;Schweiggers;Zwettl;1.986;63; 481,14 ;242,27
+428;Seebenstein;Neunkirchen;1.361;16; 71,30 ;52,39
+429;Seibersdorf;Baden;1.416;17; 79,58 ;56,2
+430;Seitenstetten;Amstetten;3.295;102; 734,60 ;222,94
+431;Senftenberg;Krems-Land;1.901;24; 113,86 ;59,89
+432;Sieghartskirchen;Tulln;7.158;134; 750,98 ;104,91
+433;Sierndorf;Korneuburg;3.688;73; 457,77 ;124,12
+434;Sigmundsherberg;Horn;1.664;37; 219,08 ;131,66
+435;Sitzenberg-Reidling;Tulln;2.013;26; 146,06 ;72,56
+436;Sitzendorf an der Schmida;Hollabrunn;2.150;35; 232,21 ;108
+437;Sollenau;Wr. Neustadt-Land;4.754;45; 303,42 ;63,82
+438;Sommerein;Bruck;1.949;24; 279,67 ;143,49
+439;Sonntagberg;Amstetten;3.782;46; 308,89 ;81,67
+440;Sooß;Baden;1.094;11; 91,05 ;83,23
+441;Spannberg;Gänserndorf;923;11; 71,60 ;77,57
+442;Spillern;Korneuburg;2.141;14; 62,38 ;29,14
+443;Spitz;Krems-Land;1.666;10; 66,90 ;40,16
+444;Staatz;Mistelbach;1.985;29; 176,67 ;89
+445;Statzendorf;St. Pölten-Land;1.371;33; 186,75 ;136,21
+446;Steinakirchen am Forst;Scheibbs;2.244;73; 1.789,70 ;797,55
+447;Stetteldorf am Wagram;Korneuburg;1.019;16; 66,10 ;64,87
+448;Stetten;Korneuburg;1.278;16; 99,03 ;77,49
+449;Stockerau;Korneuburg;15.779;73; 366,75 ;23,24
+450;Stössing;St. Pölten-Land;790;12; 82,09 ;103,91
+451;Straning-Grafenberg;Horn;755;16; 98,05 ;129,87
+452;Straß im Straßertale;Krems-Land;1.590;32; 141,40 ;88,93
+453;Strasshof an der Nordbahn;Gänserndorf;8.729;83; 440,80 ;50,5
+454;Stratzing;Krems-Land;813;19; 105,01 ;129,16
+455;Strengberg;Amstetten;1.992;53; 503,38 ;252,7
+456;Stronsdorf;Mistelbach;1.640;29; 146,55 ;89,36
+457;Sulz im Weinviertel;Gänserndorf;1.174;23; 119,56 ;101,84
+458;Tattendorf;Baden;1.330;17; 125,39 ;94,28
+459;Teesdorf;Baden;1.747;13; 71,93 ;41,17
+460;Ternitz;Neunkirchen;14.784;88; 488,89 ;33,07
+461;Texingtal;Melk;1.583;36; 274,46 ;173,38
+462;Thaya;Waidhofen a.d. Thaya;1.402;29; 251,51 ;179,39
+463;Theresienfeld;Wr. Neustadt-Land;2.977;21; 105,67 ;35,5
+464;Thomasberg;Neunkirchen;1.229;31; 220,73 ;179,6
+465;Traisen;Lilienfeld;3.531;31; 196,86 ;55,75
+466;Traiskirchen;Baden;17.737;93; 519,84 ;29,31
+467;Traismauer;St. Pölten-Land;5.847;81; 459,14 ;78,53
+468;Traunstein;Zwettl;1.063;34; 242,31 ;227,95
+469;Trautmannsdorf an der Leitha;Bruck;2.780;36; 202,78 ;72,94
+470;Trumau;Baden;3.475;17; 93,89 ;27,02
+471;Tulbing;Tulln;2.890;42; 202,42 ;70,04
+472;Tulln an der Donau;Tulln;15.429;109; 1.341,11 ;86,92
+473;Tullnerbach;Wien Umgebung;2.731;16; 76,07 ;27,85
+474;Türnitz;Lilienfeld;1.884;31; 164,15 ;87,13
+475;Ulrichskirchen-Schleinbach;Mistelbach;2.560;35; 157,17 ;61,39
+476;Unserfrau-Altweitra;Gmünd;1.003;11; 66,36 ;66,16
+477;Untersiebenbrunn;Gänserndorf;1.440;8; 42,50 ;29,51
+478;Unterstinkenbrunn;Mistelbach;566;18; 69,16 ;122,19
+479;Velm-Götzendorf;Gänserndorf;757;9; 45,36 ;59,92
+480;Viehdorf;Amstetten;1.322;45; 457,90 ;346,37
+481;Vitis;Waidhofen a.d. Thaya;2.635;73; 556,25 ;211,1
+482;Vösendorf;Mödling;6.512;24; 123,78 ;19,01
+483;Waidhofen an der Thaya;Waidhofen a.d. Thaya;5.637;88; 598,88 ;106,24
+484;Waidhofen an der Thaya-Land;Waidhofen a.d. Thaya;1.197;33; 171,00 ;142,86
+485;Waidhofen an der Ybbs;Waidhofen a.d. Ybbs;11.425 ;118; 887,70 ;77,7
+486;Waidmannsfeld;Wr. Neustadt-Land;1.593;15; 68,62 ;43,08
+487;Waldegg;Wr. Neustadt-Land;2.001;21; 105,94 ;52,94
+488;Waldenstein;Gmünd;1.201;23; 144,84 ;120,6
+489;Waldhausen;Zwettl;1.261;16; 82,48 ;65,41
+490;Waldkirchen an der Thaya;Waidhofen a.d. Thaya;554;11; 135,68 ;244,91
+491;Wallsee-Sindelburg;Amstetten;2.170;56; 432,21 ;199,18
+492;Walpersbach;Wr. Neustadt-Land;1.051;7; 32,16 ;30,6
+493;Wang;Scheibbs;1.321;42; 288,30 ;218,24
+494;Warth;Neunkirchen;1.510;19; 163,25 ;108,11
+495;Wartmannstetten;Neunkirchen;1.588;15; 67,02 ;42,2
+496;Weiden an der March;Gänserndorf;988;9; 49,94 ;50,55
+497;Weikendorf;Gänserndorf;1.900;38; 255,57 ;134,51
+498;Weikersdorf am Steinfelde;Wr. Neustadt-Land;1.059;8; 39,04 ;36,86
+499;Weinburg;St. Pölten-Land;1.319;22; 113,05 ;85,71
+500;Weinzierl am Walde;Krems-Land;1.290;27; 176,66 ;136,95
+501;Weissenbach an der Triesting;Baden;1.734;20; 486,79 ;280,73
+502;Weißenkirchen an der Perschling;St. Pölten-Land;1.302;29; 181,21 ;139,18
+503;Weißenkirchen in der Wachau;Krems-Land;1.432;11; 58,85 ;41,1
+;Weistrach;Amstetten;2.186;75; 706,72 ;323,29
+;Weiten;Melk;1.110;17; 118,85 ;107,07
+;Weitersfeld;Horn;1.614;35; 254,09 ;157,43
+;Weitra;Gmünd;2.723;34; 191,81 ;70,44
+;Wiener Neudorf;Mödling;8.836;23; 151,97 ;17,2
+;Wiener Neustadt;Wr. Neustadt-Stadt;41.701 ;210; 1.058,38 ;25,38
+;Wienerwald;Mödling;2.488;21; 140,42 ;56,44
+;Wieselburg;Scheibbs;3.772;53; 332,25 ;88,08
+;Wieselburg-Land;Scheibbs;3.279;68; 463,19 ;141,26
+;Wiesmath;Wr. Neustadt-Land;1.513;9; 66,13 ;43,71
+;Wildendürnbach;Mistelbach;1.577;34; 283,50 ;179,77
+;Wilfersdorf;Mistelbach;2.116;41; 180,45 ;85,28
+;Wilhelmsburg;St. Pölten-Land;6.564;57; 317,26 ;48,33
+;Willendorf;Neunkirchen;935;17; 88,94 ;95,12
+;Wimpassing im Schwarzatale;Neunkirchen;1.687;8; 77,21 ;45,77
+;Windigsteig;Waidhofen a.d. Thaya;990;18; 114,70 ;115,86
+;Winklarn;Amstetten;1.520;45; 353,41 ;232,51
+;Winzendorf-Muthmannsdorf;Wr. Neustadt-Land;1.853;23; 105,13 ;56,74
+;Wölbling;St. Pölten-Land;2.438;40; 293,39 ;120,34
+;Wolfpassing;Scheibbs;1.482;73; 841,42 ;567,76
+;Wolfsbach;Amstetten;1.859;73; 2.007,80 ;1.080,04
+;Wolfsgraben;Wien Umgebung;1.625;17; 72,24 ;44,46
+;Wolfsthal;Bruck;896;8; 41,80 ;46,65
+;Wolkersdorf im Weinviertel;Mistelbach;6.835;107; 593,89 ;86,89
+;Wöllersdorf-Steinabrückl;Wr. Neustadt-Land;4.221;20; 107,76 ;25,53
+;Wullersdorf;Hollabrunn;2.341;36; 214,18 ;91,49
+;Würflach;Neunkirchen;1.544;25; 141,18 ;91,44
+;Würmla;Tulln;1.282;31; 1.045,22 ;815,3
+;Ybbs an der Donau;Melk;5.603;86; 642,26 ;114,63
+;Ybbsitz;Amstetten;3.593;53; 505,96 ;140,82
+;Yspertal;Melk;1.820;51; 368,26 ;202,34
+;Zeillern;Amstetten;1.774;57; 400,08 ;225,52
+;Zeiselmauer-Wolfpassing;Tulln;2.236;20; 97,45 ;43,58
+;Zelking-Matzleinsdorf;Melk;1.249;29; 151,76 ;121,51
+;Zellerndorf;Hollabrunn;2.509;43; 245,43 ;97,82
+;Ziersdorf;Hollabrunn;3.303;55; 270,78 ;81,98
+;Zillingdorf;Wr. Neustadt-Land;2.015;6; 34,02 ;16,88
+;Zistersdorf;Gänserndorf;5.370;56; 346,26 ;64,48
+;Zöbern;Neunkirchen;1.431;17; 216,43 ;151,24
+;Zwentendorf an der Donau;Tulln;3.948;56; 701,87 ;177,78
+;Zwettl-Niederösterreich;Zwettl;11.110;264; 1.553,83 ;139,86
