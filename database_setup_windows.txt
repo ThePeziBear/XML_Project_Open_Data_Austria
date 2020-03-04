@@ -1,13 +1,20 @@
+#Einloggen mit Benutzer 'postgres'
 psql -U postgres
 
+#Passwort für Benutzer
 Test
 
+#Datenbank anlegen
 CREATE DATABASE XML WITH ENCODING 'UTF8' LC_COLLATE='German_Germany' LC_CTYPE='German_Germany';
 
+#scope auf erstellte db legen
 \c xml
 
+#Tabelle impf anlegen
 CREATE TABLE impf (id serial PRIMARY KEY, impfung character varying(100), jahr smallint, anzahl Integer);
 
+#csv file in die tabelle impf laden
 COPY impf(impfung, jahr, anzahl) FROM 'C:/Users/Dell/Github/XML_Projekt/Impfung_Recode.csv' DELIMITER ',' CSV Header;
 
+#alle daten aus impf anzeigen
 SELECT * FROM impf;
