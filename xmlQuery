@@ -1,3 +1,6 @@
-SELECT xmlelement(name impfung, xmlelement(name krankheit, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf;
+#abfrage um ein xml zu erzeugen, dass folgendes Format hat:
+#<impf><impfung>BeispielImpfung</impfung><jahr>1990</jahr><anzahl>123</anzahl></impf>
+SELECT xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf;
 
-\copy (SELECT xmlelement(name impfung, xmlelement(name krankheit, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf) TO 'C:/Users/Dell/Github/XML_Projekt/result.xml'
+#schreibt die daten in das file 'result.xml'
+\copy (SELECT xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf) TO 'C:/Users/Dell/Github/XML_Projekt/result.xml'
