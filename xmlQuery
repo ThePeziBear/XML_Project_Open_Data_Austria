@@ -1,0 +1,3 @@
+SELECT xmlelement(name impfung, xmlelement(name krankheit, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf;
+
+\copy (SELECT xmlelement(name impfung, xmlelement(name krankheit, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf) TO 'C:/Users/Dell/Github/XML_Projekt/result.xml'
