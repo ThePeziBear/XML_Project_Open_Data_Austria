@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF8"?>
+<!DOCTYPE Impfung [
+	<!ELEMENT Impfung (Krankheit, Jahr, Anzahl)*>
+	<!ELEMENT Krankheit (#PCDATA)>
+	<!ELEMENT Jahr (#PCDATA)>
+	<!ELEMENT Anzahl (#PCDATA)>
+]>
