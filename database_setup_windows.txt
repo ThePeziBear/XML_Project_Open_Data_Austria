@@ -1,7 +1,10 @@
 psql -U postgres
+
 Test
 
-CREATE DATABASE XMLP WITH ENCODING 'UTF8' LC_COLLATE='German_Germany' LC_CTYPE='German_Germany';
+CREATE DATABASE XML WITH ENCODING 'UTF8' LC_COLLATE='German_Germany' LC_CTYPE='German_Germany';
+
+\c xml
 
 CREATE TABLE impf (id serial PRIMARY KEY, impfung character varying(100), jahr smallint, anzahl Integer);
 
