@@ -2,5 +2,15 @@
 #<impf><impfung>BeispielImpfung</impfung><jahr>1990</jahr><anzahl>123</anzahl></impf>
 SELECT xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf;
 
+
+
 #schreibt die daten in das file 'result.xml'
 \copy (SELECT xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf) TO 'C:/Users/Dell/Github/XML_Projekt/result.xml'
+
+-- ich glaube, das wäre einfacher:
+-- das problem ist, dass die einzelnen xmlelemente kein vollst. xml-dokument darstellen 
+select table_to_xml('impfung', true, false, ''); 
+
+
+
+
