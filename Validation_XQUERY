@@ -1,0 +1,18 @@
+(: Demo-Beispiel: https://exist-db.org/exist/apps/demo/examples/basic/validation.html FUNKTIONIERT NATÜRLICH NICHT 
+ : Script adaptiert mittels: http://docs.basex.org/wiki/Validation_Module#validate:xsd-report  
+ : Anscheinend sollte es einen Fehler ausspucken, wenn es nicht passt.
+ : Wie immer gilt: Pfade anpassen.
+ : Script in Exist-exide reinkopieren. :) 
+
+xquery version "3.1" encoding "UTF-8";
+let $schema := doc('/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/Validierung_Datenschema.dtd')
+let $xml-valid := doc('/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/result_neu.xml')
+return
+    
+     <Validierung timestamp="{current-dateTime()}" schema="{document-uri($schema)}">
+     
+        <Validate uri="{document-uri($xml-valid)}">
+            validate:xsd-report(($xml-valid, $schema)) 
+        </Validate>
+        
+    </Validierung>

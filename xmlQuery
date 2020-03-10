@@ -9,8 +9,28 @@ SELECT xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name 
 
 -- ich glaube, das wäre einfacher:
 -- das problem ist, dass die einzelnen xmlelemente kein vollst. xml-dokument darstellen 
-select table_to_xml('impfung', true, false, ''); 
 
 
+
+psql -U pezzi -d db_ue_1
+
+-- CL-Tool postgres \copy
+\copy (select table_to_xml('impfung', true, false, '')) TO '/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/result_neu.xml'; 
+
+
+Shell-Befehle: 
+-- lokaler DB-Server muss deaktiviert werden 
+sudo service apache2 stop
+
+Starten der exist-db
+~/eXist-db/bin/startup.sh
+Browser: 127.0.0.1/8080
+ 
+-- Einlesen des xmls in die exist db
+xquery version "3.0" encoding "UTF-8";
+let $schema := doc('/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/Validierung_Datenschema.dtd')
+let $xml-valid := doc('/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/result_neu.xml')
+let $xml-invalid := doc('/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/result_neu_invalid.xml')
+return
 
 
