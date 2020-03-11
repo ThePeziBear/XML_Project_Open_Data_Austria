@@ -1,0 +1,9 @@
+um Validierung einzuschalten, folgende Zeile in C:\Users\Dell\existdb\etc\conf.xml ändern
+vorher
+<validation mode="no">
+nachher
+<validation mode="yes">
+
+'Validierung_Datenschema.dtd' nach C:\Users\Dell\existdb\etc\webapp\WEB-INF\entities kopieren
+
+'result_neu.xml' in data kopieren
