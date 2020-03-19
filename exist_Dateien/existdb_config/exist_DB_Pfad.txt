@@ -1,0 +1,5 @@
+Pfad catalog.xml
+/eXist-db/etc/webapp/WEB-INF
+
+Pfad Validierung_Datenschema.dtd
+eXist-db/etc/webapp/WEB-INF/entities/Validierung_Datenschema.dtd
