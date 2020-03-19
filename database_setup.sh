@@ -32,5 +32,11 @@ psql -U pezzi -d db_ue_1 -a -f create_and_import.sql
 
 
 
+# Update
+# file catalog.xml: Eintrag für unser .dtd-file erstellen
+# und dieses in den subordner /entities kopieren 
+
+
+
 
 
