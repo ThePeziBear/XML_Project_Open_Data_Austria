@@ -37,3 +37,5 @@ for child in root:
 
 # export 
 dframe.to_excel("./Impfung_dataframe.xlsx")
+
+???exdb.query??
