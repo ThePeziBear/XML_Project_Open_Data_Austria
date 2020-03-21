@@ -1,0 +1,22 @@
+catalog.xml
+/existdb/etc/webapp/WEB-INF:
+
+hinzufügen
+<system systemId="Validierung_Datenschema.dtd" uri="entities/Validierung_Datenschema.dtd"/>
+
+
+conf.xml
+/existdb/etc
+
+ändern
+<validation mode="no">
+zu
+<validation mode="auto">
+
+
+Validierung_Datenschema.dtd
+C:/Users/Dell/existdb/etc/webapp/WEB-INF/entities
+
+
+result_text3.xml
+wird zum hochladen gedreganddropped in entsprechendes Fenster
