@@ -1,0 +1,6 @@
+<!ELEMENT root (impf+)>
+<!ELEMENT impf (impfung, jahr, anzahl)>
+<!ELEMENT impfung (#PCDATA)>
+<!ELEMENT jahr (#PCDATA)>
+<!ELEMENT anzahl (#PCDATA)>
+
