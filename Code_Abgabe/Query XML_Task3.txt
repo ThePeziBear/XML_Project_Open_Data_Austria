@@ -1,0 +1,5 @@
+#Query über Query Editor pgAdmin4:
+select xmlelement(name impf, xmlelement(name impfung, impfung), xmlelement(name jahr, jahr), xmlelement(name anzahl, anzahl)) FROM impf;
+
+#Ausgabe der XML-Datei:
+\copy (select table_to_xml('impfung', true, false, '')) TO '/home/christian/wd/fhwn/db_systeme/XML_Project_Open_Data_Austria/result_neu3.xml';
