@@ -1,0 +1,6 @@
+# 1. Apache Server stoppen (8080)
+sudo systemctl stop apache2.service
+# 2. Starten der existdb
+~/eXist-db/bin/startup.sh
+# 3. 127.0.0.1/8080
+
